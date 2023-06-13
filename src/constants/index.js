@@ -66,7 +66,7 @@ export const footerLinks = [
       },
       {
         name: "Portfolio",
-        link: "Home",
+        link: "",
       },
     ],
   },
@@ -81,30 +81,14 @@ export const footerLinks = [
         name: "maggiorirenzo@gmail.com",
         link: "",
       },
-      {
-        name: "Suggestions",
-        link: "https://www.hoobank.com/suggestions/",
-      },
-      {
-        name: "Blog",
-        link: "https://www.hoobank.com/blog/",
-      },
-      {
-        name: "Newsletters",
-        link: "https://www.hoobank.com/newsletters/",
-      },
     ],
   },
   {
     title: "Partner",
     links: [
       {
-        name: "Our Partner",
-        link: "https://www.hoobank.com/our-partner/",
-      },
-      {
-        name: "Become a Partner",
-        link: "https://www.hoobank.com/become-a-partner/",
+        name: "Epitech",
+        link: "https://www.epitech-it.es/",
       },
     ],
   },
